@@ -1,4 +1,4 @@
-# Hii, I'm Darpit 👋🏻
+# Hi, I'm Darpit 👋🏻
 
 # 💫 About Me:
 🔭 I’m currently working on full-stack apps using React, Next.js & Node.js  <br>🌱 I’m learning DevOps & cloud to level up my backend skills  <br>💬 Ask me about JavaScript, APIs, or building real-world projects<br>
@@ -19,3 +19,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 💰 You can help me by donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/darpit_makwana) 
